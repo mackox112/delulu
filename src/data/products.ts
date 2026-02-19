@@ -85,7 +85,7 @@ export const products: Product[] = [
     name: "Naczynie na Tapas",
     description:
       "Zestaw do serwowania tapas w surowym, piaskowym wykończeniu z charakterystycznym granatowym splatterem. Miska z paterką — razem tworzą komplet idealny na wspólne posiłki w hiszpańskim stylu.",
-    category: "naczynia",
+    category: "miski",
     images: [
       { src: "/images/products/naczynie_na_tapas.jpg", alt: "Naczynie na Tapas — miska i paterka z góry" },
       { src: "/images/products/naczynie_na_tapas_2.jpg", alt: "Naczynie na Tapas — widok z boku" },
