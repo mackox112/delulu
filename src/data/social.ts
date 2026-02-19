@@ -13,7 +13,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     platform: "email",
-    href: "mailto:hello@deluluceramics.pl",
+    href: "mailto:warde.alicja@gmail.com",
     label: "E-mail",
   },
 ];
