@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useState, useCallback, useEffect } from "react";
+import { useState, useCallback, useEffect, useRef } from "react";
 import { useTranslations } from "next-intl";
 import { Product } from "@/lib/types";
 import ContactModal from "./ContactModal";
@@ -18,6 +18,7 @@ export default function ProductShowcase({
   const [showContact, setShowContact] = useState(false);
   const [imgErrors, setImgErrors] = useState<Set<number>>(new Set());
   const t = useTranslations();
+  const touchStartX = useRef(0);
 
   const productName = t(`products.${product.id}.name`);
   const productDescription = t(`products.${product.id}.description`);
@@ -53,6 +54,18 @@ export default function ProductShowcase({
     setImgErrors((prev) => new Set(prev).add(index));
   }
 
+  function handleTouchStart(e: React.TouchEvent) {
+    touchStartX.current = e.touches[0].clientX;
+  }
+
+  function handleTouchEnd(e: React.TouchEvent) {
+    const delta = touchStartX.current - e.changedTouches[0].clientX;
+    if (Math.abs(delta) > 50) {
+      if (delta > 0) goNext();
+      else goPrev();
+    }
+  }
+
   return (
     <>
       <div
@@ -62,7 +75,11 @@ export default function ProductShowcase({
       >
         {/* Gallery */}
         <div className={`space-y-4 ${reverse ? "lg:order-2" : ""}`}>
-          <div className="aspect-[4/5] rounded-2xl overflow-hidden bg-surface-light relative group">
+          <div
+            className="aspect-[4/5] rounded-2xl overflow-hidden bg-surface-light relative group"
+            onTouchStart={handleTouchStart}
+            onTouchEnd={handleTouchEnd}
+          >
             {imgErrors.has(activeIndex) ? (
               <div className="w-full h-full flex items-center justify-center">
                 <span className="text-warm-gray/40 text-sm">{productName}</span>
@@ -72,9 +89,8 @@ export default function ProductShowcase({
                 key={activeIndex}
                 src={product.images[activeIndex].src}
                 alt={t(`products.${product.id}.images.${activeIndex}`)}
-                width={800}
-                height={1000}
-                className={`w-full h-full object-cover transition-opacity duration-300 ${
+                fill
+                className={`object-cover transition-opacity duration-300 [image-orientation:from-image] ${
                   isTransitioning ? "opacity-0" : "opacity-100"
                 }`}
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -144,7 +160,7 @@ export default function ProductShowcase({
                       alt={t(`products.${product.id}.images.${i}`)}
                       width={80}
                       height={80}
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover [image-orientation:from-image]"
                       onError={() => handleImgError(i)}
                     />
                   )}
