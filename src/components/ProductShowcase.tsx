@@ -90,7 +90,7 @@ export default function ProductShowcase({
                 src={product.images[activeIndex].src}
                 alt={t(`products.${product.id}.images.${activeIndex}`)}
                 fill
-                className={`object-cover transition-opacity duration-300 [image-orientation:from-image] ${
+                className={`object-cover transition-opacity duration-300 ${
                   isTransitioning ? "opacity-0" : "opacity-100"
                 }`}
                 sizes="(max-width: 1024px) 100vw, 50vw"
