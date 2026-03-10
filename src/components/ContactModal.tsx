@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
+import { useTranslations } from "next-intl";
 import { socialLinks } from "@/data/social";
 
 const instagram = socialLinks.find((l) => l.platform === "instagram")!;
@@ -15,6 +16,8 @@ export default function ContactModal({
   isOpen: boolean;
   onClose: () => void;
 }) {
+  const t = useTranslations("contactModal");
+
   useEffect(() => {
     if (!isOpen) return;
     function handleKey(e: KeyboardEvent) {
@@ -41,7 +44,7 @@ export default function ContactModal({
       >
         <h3 className="text-2xl font-bold text-charcoal">{productName}</h3>
         <p className="mt-4 text-warm-gray">
-          Każdy egzemplarz jest tworzony na zamówienie. Napisz, a przygotujemy coś specjalnie dla Ciebie.
+          {t("description")}
         </p>
         <div className="mt-6 flex flex-col gap-3">
           <a
@@ -72,7 +75,7 @@ export default function ContactModal({
           onClick={onClose}
           className="mt-5 text-sm text-warm-gray hover:text-charcoal transition-colors"
         >
-          Zamknij
+          {t("close")}
         </button>
       </div>
     </div>

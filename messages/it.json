@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "siteDescription": "Ceramica fatta a mano — tazze, ciotole e vassoi creati con passione.",
+    "homeTitle": "Delulu Ceramics | Ceramica fatta a mano",
+    "collectionTitle": "Collezione | Delulu Ceramics",
+    "collectionDescription": "Collezione completa di ceramica artigianale Delulu — tazze, ciotole e vasi decorativi.",
+    "aboutTitle": "Chi siamo | Delulu Ceramics",
+    "aboutDescription": "Scopri la storia di Delulu Ceramics e la passione per la ceramica fatta a mano.",
+    "contactTitle": "Contatto | Delulu Ceramics",
+    "contactDescription": "Contatta Delulu Ceramics tramite Instagram, WhatsApp o e-mail."
+  },
+  "nav": {
+    "collection": "Collezione",
+    "about": "Chi siamo",
+    "contact": "Contatto"
+  },
+  "hero": {
+    "subtitle": "Ceramica unica fatta a mano. Ogni pezzo racconta la sua storia.",
+    "heroImageAlt": "Alicja che beve da una tazza Kraken in riva al mare",
+    "scrollLabel": "Vai alla collezione"
+  },
+  "home": {
+    "introText": "Ogni pezzo è unico — modellato a mano, smaltato con cura per i dettagli e cotto ad alta temperatura. Non produciamo in serie. Creiamo su ordinazione.",
+    "aboutLink": "Scopri la storia di Alicja",
+    "collectionHeading": "Collezione",
+    "viewAll": "Vedi tutta la collezione",
+    "interestedHeading": "Interessato?",
+    "interestedText": "Scrivici — saremo felici di creare qualcosa di speciale solo per te."
+  },
+  "collection": {
+    "heading": "Collezione",
+    "subtitle": "Ogni pezzo è unico — modellato a mano e smaltato con attenzione ai dettagli.",
+    "interestedHeading": "Interessato?",
+    "interestedText": "Scrivici — saremo felici di creare qualcosa di speciale solo per te."
+  },
+  "categories": {
+    "kubki": "Tazze",
+    "miski": "Ciotole",
+    "naczynia": "Vasi decorativi"
+  },
+  "product": {
+    "priceNote": "Prezzo su richiesta",
+    "orderButton": "Ordina",
+    "prevPhoto": "Foto precedente",
+    "nextPhoto": "Foto successiva",
+    "photoN": "Foto {number}"
+  },
+  "contactModal": {
+    "description": "Ogni pezzo viene creato su ordinazione. Scrivici e prepareremo qualcosa di speciale per te.",
+    "close": "Chiudi"
+  },
+  "about": {
+    "heading": "Chi è Delulu Ceramics",
+    "subtitle": "Scopri la nostra storia",
+    "alicjaAlt": "Alicja che presenta la sua ceramica",
+    "storyTitle": "Da un furgone a un laboratorio di ceramica...",
+    "storyP1": "La mia ceramica è nata in viaggio. La maggior parte dei progetti che vedi qui ha le sue radici in un viaggio in furgone attraverso la soleggiata Spagna. È lì, tra una sosta e l'altra, che ho assorbito i colori, i sapori e i profumi che oggi racchiudo nell'argilla.",
+    "storyP2": "Mi ispira tutto ciò che evoca libertà: il blu profondo del mare, il gusto dei pasti condivisi e le affascinanti creature sottomarine. Per questo le mie opere non sono perfettamente dritte — portano l'energia della natura. Un esempio? Il mio vassoio blu per tapas, che somiglia più a una roccia sottomarina che a un piatto.",
+    "storyP3": "Creo per chi, come me, ama celebrare i momenti e vuole avere un pezzo di sole in casa, indipendentemente dal tempo fuori.",
+    "processHeading": "Il processo creativo",
+    "step1Title": "Modellatura",
+    "step1Text": "Ogni pezzo viene tornito a mano sul tornio da vasaio con argilla naturale.",
+    "step2Title": "Smaltatura",
+    "step2Text": "I pezzi vengono ricoperti con smalti miscelati a mano in colori unici.",
+    "step3Title": "Cottura",
+    "step3Text": "La doppia cottura nel forno ceramico conferisce durabilità e un aspetto splendido."
+  },
+  "contact": {
+    "heading": "Contatto",
+    "subtitle": "Vuoi ordinare della ceramica o hai domande?",
+    "description": "Contatta Alicja attraverso il tuo canale preferito. Saremo felici di rispondere alle tue domande, consigliarti e accettare il tuo ordine."
+  },
+  "social": {
+    "writeToUs": "Scrivici"
+  },
+  "footer": {
+    "copyright": "Tutti i diritti riservati."
+  },
+  "notFound": {
+    "heading": "Pagina non trovata",
+    "text": "Ci scusiamo, questa pagina non esiste.",
+    "backHome": "Torna alla homepage"
+  },
+  "mobileMenu": {
+    "open": "Apri menu",
+    "close": "Chiudi menu"
+  },
+  "products": {
+    "kubek-kraken": {
+      "name": "Tazza Kraken",
+      "description": "Una tazza tornita a mano con tentacoli di kraken scolpiti che avvolgono il recipiente. Ogni esemplare è unico — smaltato nei toni profondi del mare, dal viola al blu scuro. I tentacoli sono modellati a mano, uno per uno.",
+      "images": {
+        "0": "Tazza Kraken — primo piano di tentacoli e smalto",
+        "1": "Tazza Kraken — vista laterale con neve sullo sfondo",
+        "2": "Tazza Kraken — dettagli dello smalto e dei tentacoli",
+        "3": "Tazza Kraken — primo piano delle ventose",
+        "4": "Tazza Kraken — su una pietra in riva al mare"
+      }
+    },
+    "kubki-piaskowe": {
+      "name": "Tazze Sabbia",
+      "description": "Tazze in calde tonalità sabbiose con interno blu — come una spiaggia che incontra l'oceano. Texture puntinata all'esterno, blu profondo all'interno. Manico comodo e dimensione ideale per il caffè del mattino.",
+      "images": {
+        "0": "Tazza Sabbia — vista dell'interno con smalto blu",
+        "1": "Tazze Sabbia — coppia di tazze in mano",
+        "2": "Tazze Sabbia — vista dall'alto degli interni blu",
+        "3": "Tazze Sabbia — dettagli della texture sabbiosa"
+      }
+    },
+    "czarki": {
+      "name": "Ciotole da Tè",
+      "description": "Una collezione di piccoli recipienti senza manico — ciotole da tè, tazze a cuore e bicchierini da viaggio. Smalti multicolore, forme romantiche e versioni ceramiche delle tazze da viaggio. Stile wabi-sabi, dove l'imperfezione è bellezza.",
+      "images": {
+        "0": "Ciotole da Tè — coppia di ciotole con interno blu",
+        "1": "Ciotole da Tè — vista laterale dello smalto multicolore",
+        "2": "Ciotole da Tè — tazze a forma di cuore",
+        "3": "Ciotole da Tè — bicchierini ceramici da viaggio"
+      }
+    },
+    "miski-oceaniczne": {
+      "name": "Ciotole Oceano",
+      "description": "Ciotole tornite a mano ispirate alle profondità dell'oceano. Smaltate in tonalità di blu e turchese, con forme organiche che ricordano le rocce marine. Ideali per servire insalate o la vostra zuppa preferita.",
+      "images": {
+        "0": "Ciotole Oceano — set di ciotole in tonalità di blu",
+        "1": "Ciotole Oceano — dettagli dello smalto e texture"
+      }
+    },
+    "miski-piaskowe": {
+      "name": "Ciotole Sabbia",
+      "description": "Ciotole in tonalità sabbiose con motivi astratti a pennellata in smalto scuro. Ogni tratto è diverso — dipinto a mano con un solo movimento del pennello. Un set di tre ciotole di diverse dimensioni.",
+      "images": {
+        "0": "Ciotole Sabbia — tre ciotole dall'alto con motivi a pennellata",
+        "1": "Ciotole Sabbia — vista laterale, inclinate",
+        "2": "Ciotole Sabbia — pila di ciotole di profilo",
+        "3": "Ciotole Sabbia — disposte su tessuto"
+      }
+    },
+    "patera-rafa": {
+      "name": "Vassoio Barriera",
+      "description": "Un grande vassoio con bordi organici e ondulati — ispirato alla barriera corallina. Smaltato in blu profondo con un dettaglio che ricorda il corallo. Ogni pezzo è irripetibile, ideale come centrotavola.",
+      "images": {
+        "0": "Vassoio Barriera — primo piano del dettaglio corallino e smalto blu",
+        "1": "Vassoio Barriera — dettaglio del bordo con corallo",
+        "2": "Vassoio Barriera — due vassoi su tavolo di legno",
+        "3": "Vassoio Barriera — vista laterale del bordo ondulato"
+      }
+    },
+    "naczynie-na-tapas": {
+      "name": "Piatto per Tapas",
+      "description": "Un set da portata per tapas con finitura grezza e sabbiosa e un caratteristico spruzzo blu scuro. Una ciotola con piattino — insieme formano il set perfetto per pasti condivisi in stile spagnolo.",
+      "images": {
+        "0": "Piatto per Tapas — ciotola e piattino dall'alto",
+        "1": "Piatto per Tapas — vista laterale",
+        "2": "Piatto per Tapas — dettaglio dello spruzzo"
+      }
+    }
+  }
+}

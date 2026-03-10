@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "siteDescription": "Cerámica hecha a mano — tazas, cuencos y fuentes creadas con pasión.",
+    "homeTitle": "Delulu Ceramics | Cerámica hecha a mano",
+    "collectionTitle": "Colección | Delulu Ceramics",
+    "collectionDescription": "Colección completa de cerámica artesanal Delulu — tazas, cuencos y piezas decorativas.",
+    "aboutTitle": "Sobre nosotros | Delulu Ceramics",
+    "aboutDescription": "Descubre la historia de Delulu Ceramics y la pasión por la cerámica artesanal.",
+    "contactTitle": "Contacto | Delulu Ceramics",
+    "contactDescription": "Contacta con Delulu Ceramics por Instagram, WhatsApp o correo electrónico."
+  },
+  "nav": {
+    "collection": "Colección",
+    "about": "Sobre nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "subtitle": "Cerámica única hecha a mano. Cada pieza cuenta su propia historia.",
+    "heroImageAlt": "Alicja bebiendo de una taza Kraken junto al mar",
+    "scrollLabel": "Ir a la colección"
+  },
+  "home": {
+    "introText": "Cada pieza es única — moldeada a mano, esmaltada con atención al detalle y cocida a alta temperatura. No producimos en serie. Creamos por encargo.",
+    "aboutLink": "Conoce la historia de Alicja",
+    "collectionHeading": "Colección",
+    "viewAll": "Ver colección completa",
+    "interestedHeading": "¿Te interesa?",
+    "interestedText": "Escríbenos — estaremos encantados de crear algo especial para ti."
+  },
+  "collection": {
+    "heading": "Colección",
+    "subtitle": "Cada pieza es única — moldeada a mano y esmaltada con atención al detalle.",
+    "interestedHeading": "¿Te interesa?",
+    "interestedText": "Escríbenos — estaremos encantados de crear algo especial para ti."
+  },
+  "categories": {
+    "kubki": "Tazas",
+    "miski": "Cuencos",
+    "naczynia": "Piezas decorativas"
+  },
+  "product": {
+    "priceNote": "Precio a consultar",
+    "orderButton": "Pedir",
+    "prevPhoto": "Foto anterior",
+    "nextPhoto": "Foto siguiente",
+    "photoN": "Foto {number}"
+  },
+  "contactModal": {
+    "description": "Cada pieza se crea por encargo. Escríbenos y prepararemos algo especial para ti.",
+    "close": "Cerrar"
+  },
+  "about": {
+    "heading": "Sobre Delulu Ceramics",
+    "subtitle": "Descubre nuestra historia",
+    "alicjaAlt": "Alicja presentando su cerámica",
+    "storyTitle": "De una furgoneta a un taller de cerámica...",
+    "storyP1": "Mi cerámica nació en el camino. La mayoría de los diseños que ves aquí tienen sus raíces en un viaje en furgoneta por la soleada España. Fue allí, entre una parada y otra, donde absorbí los colores, sabores y aromas que hoy encierro en la arcilla.",
+    "storyP2": "Me inspira todo lo que evoca libertad: el azul profundo del mar, el sabor de las comidas compartidas y las fascinantes criaturas submarinas. Por eso mis obras no son perfectamente rectas — llevan la energía de la naturaleza. ¿Un ejemplo? Mi fuente azul para tapas, que se parece más a una roca submarina que a un plato.",
+    "storyP3": "Creo para quienes, como yo, aman celebrar los momentos y quieren tener un pedazo de sol en casa, sin importar el clima afuera.",
+    "processHeading": "El proceso creativo",
+    "step1Title": "Modelado",
+    "step1Text": "Cada pieza se tornea a mano en el torno de alfarero con arcilla natural.",
+    "step2Title": "Esmaltado",
+    "step2Text": "Las piezas se recubren con esmaltes mezclados a mano en colores únicos.",
+    "step3Title": "Cocción",
+    "step3Text": "La doble cocción en horno cerámico aporta durabilidad y un acabado hermoso."
+  },
+  "contact": {
+    "heading": "Contacto",
+    "subtitle": "¿Quieres pedir cerámica o tienes preguntas?",
+    "description": "Contacta con Alicja por tu canal preferido. Estaremos encantados de responder tus preguntas, aconsejarte y aceptar tu pedido."
+  },
+  "social": {
+    "writeToUs": "Escríbenos"
+  },
+  "footer": {
+    "copyright": "Todos los derechos reservados."
+  },
+  "notFound": {
+    "heading": "Página no encontrada",
+    "text": "Lo sentimos, esta página no existe.",
+    "backHome": "Volver a la página principal"
+  },
+  "mobileMenu": {
+    "open": "Abrir menú",
+    "close": "Cerrar menú"
+  },
+  "products": {
+    "kubek-kraken": {
+      "name": "Taza Kraken",
+      "description": "Una taza torneada a mano con tentáculos de kraken esculpidos que envuelven la pieza. Cada ejemplar es único — esmaltado en tonos profundos del mar, del violeta al azul oscuro. Los tentáculos se modelan a mano, uno por uno.",
+      "images": {
+        "0": "Taza Kraken — primer plano de tentáculos y esmalte",
+        "1": "Taza Kraken — vista lateral con nieve de fondo",
+        "2": "Taza Kraken — detalles del esmaltado y tentáculos",
+        "3": "Taza Kraken — primer plano de las ventosas",
+        "4": "Taza Kraken — sobre una piedra junto al mar"
+      }
+    },
+    "kubki-piaskowe": {
+      "name": "Tazas Arena",
+      "description": "Tazas en tonos cálidos arenosos con interior azul — como una playa encontrándose con el océano. Textura moteada por fuera, azul profundo por dentro. Asa cómoda y tamaño ideal para el café matutino.",
+      "images": {
+        "0": "Taza Arena — vista del interior con esmalte azul",
+        "1": "Tazas Arena — par de tazas en la mano",
+        "2": "Tazas Arena — vista superior de interiores azules",
+        "3": "Tazas Arena — detalles de la textura arenosa"
+      }
+    },
+    "czarki": {
+      "name": "Cuencos de Té",
+      "description": "Una colección de pequeños recipientes sin asa — cuencos de té, tazas corazón y vasitos para llevar. Esmaltes multicolor, formas románticas y versiones cerámicas de vasos de viaje. Estilo wabi-sabi, donde la imperfección es belleza.",
+      "images": {
+        "0": "Cuencos de Té — par de cuencos con interior azul",
+        "1": "Cuencos de Té — vista lateral del esmalte multicolor",
+        "2": "Cuencos de Té — tazas en forma de corazón",
+        "3": "Cuencos de Té — vasitos cerámicos para llevar"
+      }
+    },
+    "miski-oceaniczne": {
+      "name": "Cuencos Océano",
+      "description": "Cuencos torneados a mano inspirados en la profundidad del océano. Esmaltados en tonos de azul y turquesa, con formas orgánicas que recuerdan a las rocas marinas. Ideales para servir ensaladas o tu sopa favorita.",
+      "images": {
+        "0": "Cuencos Océano — conjunto de cuencos en tonos azules",
+        "1": "Cuencos Océano — detalles del esmaltado y textura"
+      }
+    },
+    "miski-piaskowe": {
+      "name": "Cuencos Arena",
+      "description": "Cuencos en tonos arena con patrones abstractos de pinceladas en esmalte oscuro. Cada trazo es diferente — pintado a mano de un solo movimiento. Un juego de tres cuencos de distintos tamaños.",
+      "images": {
+        "0": "Cuencos Arena — tres cuencos desde arriba con patrones de pinceladas",
+        "1": "Cuencos Arena — vista lateral, inclinados",
+        "2": "Cuencos Arena — pila de cuencos de perfil",
+        "3": "Cuencos Arena — extendidos sobre tela"
+      }
+    },
+    "patera-rafa": {
+      "name": "Fuente Arrecife",
+      "description": "Una gran fuente con bordes orgánicos y ondulantes — inspirada en los arrecifes de coral. Esmaltada en azul profundo con un detalle que recuerda al coral. Cada pieza es irrepetible, ideal como centro de mesa.",
+      "images": {
+        "0": "Fuente Arrecife — primer plano del detalle coralino y esmalte azul",
+        "1": "Fuente Arrecife — detalle del borde con coral",
+        "2": "Fuente Arrecife — dos fuentes sobre mesa de madera",
+        "3": "Fuente Arrecife — vista lateral del borde ondulante"
+      }
+    },
+    "naczynie-na-tapas": {
+      "name": "Plato para Tapas",
+      "description": "Un set para servir tapas con acabado crudo y arenoso y un distintivo salpicado azul marino. Un cuenco con plato — juntos forman el complemento ideal para comidas compartidas al estilo español.",
+      "images": {
+        "0": "Plato para Tapas — cuenco y plato desde arriba",
+        "1": "Plato para Tapas — vista lateral",
+        "2": "Plato para Tapas — detalle del salpicado"
+      }
+    }
+  }
+}

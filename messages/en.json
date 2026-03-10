@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "siteDescription": "Handmade ceramics — mugs, bowls, and platters crafted with passion.",
+    "homeTitle": "Delulu Ceramics | Handmade Ceramics",
+    "collectionTitle": "Collection | Delulu Ceramics",
+    "collectionDescription": "Full collection of Delulu handmade ceramics — mugs, bowls, and decorative vessels.",
+    "aboutTitle": "About | Delulu Ceramics",
+    "aboutDescription": "Discover the story of Delulu Ceramics and the passion behind handmade pottery.",
+    "contactTitle": "Contact | Delulu Ceramics",
+    "contactDescription": "Get in touch with Delulu Ceramics via Instagram, WhatsApp, or email."
+  },
+  "nav": {
+    "collection": "Collection",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Unique handcrafted ceramics. Every piece tells its own story.",
+    "heroImageAlt": "Alicja drinking from a Kraken mug by the sea",
+    "scrollLabel": "Scroll to collection"
+  },
+  "home": {
+    "introText": "Every piece is unique — hand-thrown, carefully glazed, and fired at high temperatures. We don't mass-produce. We create to order.",
+    "aboutLink": "Discover Alicja's story",
+    "collectionHeading": "Collection",
+    "viewAll": "View full collection",
+    "interestedHeading": "Interested?",
+    "interestedText": "Write to us — we'd love to create something special just for you."
+  },
+  "collection": {
+    "heading": "Collection",
+    "subtitle": "Every piece is unique — hand-thrown and carefully glazed with attention to detail.",
+    "interestedHeading": "Interested?",
+    "interestedText": "Write to us — we'd love to create something special just for you."
+  },
+  "categories": {
+    "kubki": "Mugs",
+    "miski": "Bowls",
+    "naczynia": "Decorative Vessels"
+  },
+  "product": {
+    "priceNote": "Price set individually",
+    "orderButton": "Order",
+    "prevPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "photoN": "Photo {number}"
+  },
+  "contactModal": {
+    "description": "Every piece is made to order. Write to us and we'll create something special just for you.",
+    "close": "Close"
+  },
+  "about": {
+    "heading": "About Delulu Ceramics",
+    "subtitle": "Discover our story",
+    "alicjaAlt": "Alicja presenting her ceramics",
+    "storyTitle": "From a van to a ceramics studio...",
+    "storyP1": "My ceramics were born on the road. Most of the designs you see here have their roots in a van trip through sunny Spain. It was there, between one stop and the next, that I soaked in the colours, flavours, and scents that I now capture in clay.",
+    "storyP2": "I'm inspired by everything that evokes freedom: the deep blue of the sea, the taste of shared meals, and fascinating underwater creatures. That's why my work isn't perfectly straight — it carries the energy of nature. An example? My blue tapas platter, which looks more like an underwater rock than a dish.",
+    "storyP3": "I create for those who, like me, love to celebrate moments and want a piece of sunshine at home, regardless of the weather outside.",
+    "processHeading": "The Creative Process",
+    "step1Title": "Shaping",
+    "step1Text": "Every vessel is hand-thrown on a potter's wheel from natural clay.",
+    "step2Title": "Glazing",
+    "step2Text": "Pieces are coated with hand-mixed glazes in unique colours.",
+    "step3Title": "Firing",
+    "step3Text": "Double firing in a ceramic kiln gives durability and a beautiful finish."
+  },
+  "contact": {
+    "heading": "Contact",
+    "subtitle": "Want to order ceramics or have questions?",
+    "description": "Get in touch with Alicja through your preferred channel. We're happy to answer questions, give advice, and take orders."
+  },
+  "social": {
+    "writeToUs": "Write to us"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  },
+  "notFound": {
+    "heading": "Page not found",
+    "text": "Sorry, this page doesn't exist.",
+    "backHome": "Back to homepage"
+  },
+  "mobileMenu": {
+    "open": "Open menu",
+    "close": "Close menu"
+  },
+  "products": {
+    "kubek-kraken": {
+      "name": "Kraken Mug",
+      "description": "A hand-thrown mug with sculpted kraken tentacles wrapping around the vessel. Each piece is unique — glazed in deep ocean tones, from violet to dark blue. Tentacles are formed by hand, one by one.",
+      "images": {
+        "0": "Kraken Mug — close-up of tentacles and glaze",
+        "1": "Kraken Mug — side view against snow",
+        "2": "Kraken Mug — glaze and tentacle details",
+        "3": "Kraken Mug — close-up of suction cups",
+        "4": "Kraken Mug — on a stone by the sea"
+      }
+    },
+    "kubki-piaskowe": {
+      "name": "Sandy Mugs",
+      "description": "Mugs in warm, sandy tones with a blue interior — like a beach meeting the ocean. Speckled texture on the outside, deep blue inside. Comfortable handle and perfect size for your morning coffee.",
+      "images": {
+        "0": "Sandy Mug — interior view with blue glaze",
+        "1": "Sandy Mugs — pair of mugs in hand",
+        "2": "Sandy Mugs — top view of blue interiors",
+        "3": "Sandy Mugs — sandy texture details"
+      }
+    },
+    "czarki": {
+      "name": "Tea Bowls",
+      "description": "A collection of small handleless vessels — tea bowls, heart-shaped cups, and ceramic to-go cups. Multicoloured glazes, romantic shapes, and ceramic versions of travel mugs. Wabi-sabi style, where imperfection is beauty.",
+      "images": {
+        "0": "Tea Bowls — pair of bowls with blue interior",
+        "1": "Tea Bowls — side view of multicoloured glaze",
+        "2": "Tea Bowls — heart-shaped cups",
+        "3": "Tea Bowls — ceramic to-go cups"
+      }
+    },
+    "miski-oceaniczne": {
+      "name": "Ocean Bowls",
+      "description": "Hand-thrown bowls inspired by the depths of the ocean. Glazed in shades of blue and turquoise, with organic shapes reminiscent of sea rocks. Perfect for serving salads or your favourite soup.",
+      "images": {
+        "0": "Ocean Bowls — set of bowls in shades of blue",
+        "1": "Ocean Bowls — glaze details and texture"
+      }
+    },
+    "miski-piaskowe": {
+      "name": "Sandy Bowls",
+      "description": "Bowls in sandy tones with abstract, brushstroke patterns in dark glaze. Every swirl is different — painted by hand in a single brushstroke. A set of three bowls in different sizes.",
+      "images": {
+        "0": "Sandy Bowls — three bowls from above with brushstroke patterns",
+        "1": "Sandy Bowls — side view, tilted",
+        "2": "Sandy Bowls — stack of bowls in profile",
+        "3": "Sandy Bowls — spread out on fabric"
+      }
+    },
+    "patera-rafa": {
+      "name": "Reef Platter",
+      "description": "A large platter with organic, undulating edges — inspired by coral reefs. Glazed in deep blue with a detail resembling coral. Every piece is one of a kind, perfect as a table centrepiece.",
+      "images": {
+        "0": "Reef Platter — close-up of coral detail and blue glaze",
+        "1": "Reef Platter — edge detail with coral",
+        "2": "Reef Platter — two platters on a wooden table",
+        "3": "Reef Platter — side view of undulating edge"
+      }
+    },
+    "naczynie-na-tapas": {
+      "name": "Tapas Dish",
+      "description": "A tapas serving set in a raw, sandy finish with a distinctive navy splatter. A bowl with a small platter — together they make the perfect set for shared meals in Spanish style.",
+      "images": {
+        "0": "Tapas Dish — bowl and platter from above",
+        "1": "Tapas Dish — side view",
+        "2": "Tapas Dish — splatter detail"
+      }
+    }
+  }
+}

@@ -1,11 +1,14 @@
 import Image from "next/image";
+import { useTranslations } from "next-intl";
 
 export default function Hero() {
+  const t = useTranslations("hero");
+
   return (
     <section className="relative h-svh flex items-end bg-surface-light">
       <Image
         src="/images/products/alicja_home.jpg"
-        alt="Alicja pijąca z kubka Kraken nad morzem"
+        alt={t("heroImageAlt")}
         fill
         className="object-cover"
         priority
@@ -18,14 +21,14 @@ export default function Hero() {
           Delulu Ceramics
         </h1>
         <p className="mt-4 text-lg sm:text-xl text-white/70 max-w-lg">
-          Unikalna ceramika tworzona ręcznie. Każde naczynie to osobna historia.
+          {t("subtitle")}
         </p>
       </div>
 
       <a
         href="#kolekcja"
         className="absolute bottom-6 left-1/2 -translate-x-1/2 z-10 text-white/50 hover:text-white transition-colors"
-        aria-label="Przewiń do kolekcji"
+        aria-label={t("scrollLabel")}
       >
         <svg
           className="w-6 h-6 animate-bounce"

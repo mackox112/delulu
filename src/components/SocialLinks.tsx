@@ -1,3 +1,4 @@
+import { useTranslations } from "next-intl";
 import { socialLinks } from "@/data/social";
 
 function InstagramIcon({ className }: { className?: string }) {
@@ -34,6 +35,8 @@ const iconMap = {
 };
 
 export default function SocialLinks({ variant }: { variant: "footer" | "contact" }) {
+  const t = useTranslations("social");
+
   if (variant === "contact") {
     return (
       <div className="grid gap-6 sm:grid-cols-3">
@@ -54,7 +57,7 @@ export default function SocialLinks({ variant }: { variant: "footer" | "contact"
                   ? link.href.replace("mailto:", "")
                   : link.platform === "instagram"
                     ? "@deluluceramics"
-                    : "Napisz do nas"}
+                    : t("writeToUs")}
               </span>
             </a>
           );

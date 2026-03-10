@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "siteDescription": "Ręcznie robiona ceramika — kubki, miski i patery tworzone z pasją.",
+    "homeTitle": "Delulu Ceramics | Ręcznie robiona ceramika",
+    "collectionTitle": "Kolekcja | Delulu Ceramics",
+    "collectionDescription": "Pełna kolekcja ręcznie robionej ceramiki Delulu — kubki, miski i naczynia ozdobne.",
+    "aboutTitle": "O nas | Delulu Ceramics",
+    "aboutDescription": "Poznaj historię Delulu Ceramics i pasję do ręcznie robionej ceramiki.",
+    "contactTitle": "Kontakt | Delulu Ceramics",
+    "contactDescription": "Skontaktuj się z Delulu Ceramics przez Instagram, WhatsApp lub e-mail."
+  },
+  "nav": {
+    "collection": "Kolekcja",
+    "about": "O nas",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "subtitle": "Unikalna ceramika tworzona ręcznie. Każde naczynie to osobna historia.",
+    "heroImageAlt": "Alicja pijąca z kubka Kraken nad morzem",
+    "scrollLabel": "Przewiń do kolekcji"
+  },
+  "home": {
+    "introText": "Każde naczynie jest unikalne — formowane ręcznie, szkliwione z dbałością o detal i wypalane w wysokiej temperaturze. Nie produkujemy seriami. Tworzymy na zamówienie.",
+    "aboutLink": "Poznaj historię Alicji",
+    "collectionHeading": "Kolekcja",
+    "viewAll": "Zobacz całą kolekcję",
+    "interestedHeading": "Zainteresowany?",
+    "interestedText": "Napisz do nas — chętnie stworzymy coś wyjątkowego specjalnie dla Ciebie."
+  },
+  "collection": {
+    "heading": "Kolekcja",
+    "subtitle": "Każde naczynie jest unikalne — formowane ręcznie, szkliwione z dbałością o detal.",
+    "interestedHeading": "Zainteresowany?",
+    "interestedText": "Napisz do nas — chętnie stworzymy coś wyjątkowego specjalnie dla Ciebie."
+  },
+  "categories": {
+    "kubki": "Kubki",
+    "miski": "Miski",
+    "naczynia": "Naczynia ozdobne"
+  },
+  "product": {
+    "priceNote": "Cena ustalana indywidualnie",
+    "orderButton": "Zamów",
+    "prevPhoto": "Poprzednie zdjęcie",
+    "nextPhoto": "Następne zdjęcie",
+    "photoN": "Zdjęcie {number}"
+  },
+  "contactModal": {
+    "description": "Każdy egzemplarz jest tworzony na zamówienie. Napisz, a przygotujemy coś specjalnie dla Ciebie.",
+    "close": "Zamknij"
+  },
+  "about": {
+    "heading": "O Delulu Ceramics",
+    "subtitle": "Poznaj naszą historię",
+    "alicjaAlt": "Alicja prezentująca swoją ceramikę",
+    "storyTitle": "Od vana do pracowni ceramicznej...",
+    "storyP1": "Moja ceramika narodziła się w drodze. Większość projektów, które tu widzisz, ma swoje korzenie w podróży vanem przez słoneczną Hiszpanię. To tam, między jednym a drugim postojem, chłonęłam kolory, smaki i zapachy, które dziś zamykam w glinie.",
+    "storyP2": "Inspiruje mnie wszystko, co kojarzy się z wolnością: głęboki błękit morza, smak wspólnego jedzenia i fascynujące podwodne żyjątka. Dlatego moje prace nie są idealnie proste — mają w sobie energię natury. Przykład? Moja niebieska patera na tapas, która bardziej niż naczynie przypomina podwodną skałę.",
+    "storyP3": "Tworzę dla tych, którzy tak jak ja, kochają celebrować chwile i chcą mieć w domu kawałek słońca, niezależnie od pogody za oknem.",
+    "processHeading": "Proces tworzenia",
+    "step1Title": "Formowanie",
+    "step1Text": "Każde naczynie jest ręcznie toczone na kole garncarskim z naturalnej gliny.",
+    "step2Title": "Szkliwienie",
+    "step2Text": "Naczynia pokrywane są ręcznie mieszanymi szkliwami w unikalnych kolorach.",
+    "step3Title": "Wypalanie",
+    "step3Text": "Dwukrotne wypalanie w piecu ceramicznym nadaje trwałość i piękny wygląd."
+  },
+  "contact": {
+    "heading": "Kontakt",
+    "subtitle": "Chcesz zamówić ceramikę lub masz pytania?",
+    "description": "Skontaktuj się z Alicją przez ulubiony kanał. Chętnie odpowiemy na pytania, doradzimy i przyjmiemy zamówienie."
+  },
+  "social": {
+    "writeToUs": "Napisz do nas"
+  },
+  "footer": {
+    "copyright": "Wszelkie prawa zastrzeżone."
+  },
+  "notFound": {
+    "heading": "Strona nie znaleziona",
+    "text": "Przepraszamy, ta strona nie istnieje.",
+    "backHome": "Wróć na stronę główną"
+  },
+  "mobileMenu": {
+    "open": "Otwórz menu",
+    "close": "Zamknij menu"
+  },
+  "products": {
+    "kubek-kraken": {
+      "name": "Kubek Kraken",
+      "description": "Ręcznie toczony kubek z rzeźbionymi mackami krakena oplatającymi naczynie. Każdy egzemplarz jest unikalny — szkliwiony w głębokich odcieniach morza, od fioletu po ciemny błękit. Macki formowane ręcznie, jedna po drugiej.",
+      "images": {
+        "0": "Kubek Kraken — widok z bliska na macki i szkliwa",
+        "1": "Kubek Kraken — ujęcie z boku na tle śniegu",
+        "2": "Kubek Kraken — detale szkliwienia i macek",
+        "3": "Kubek Kraken — zbliżenie na przyssawki",
+        "4": "Kubek Kraken — na kamieniu nad morzem"
+      }
+    },
+    "kubki-piaskowe": {
+      "name": "Kubki Piaskowe",
+      "description": "Kubki w ciepłych, piaskowych odcieniach z błękitnym wnętrzem — jak plaża spotykająca ocean. Nakrapiana faktura na zewnątrz, głęboki błękit w środku. Wygodny uchwyt i pojemność idealna na poranną kawę.",
+      "images": {
+        "0": "Kubek Piaskowy — widok wnętrza z błękitnym szkliwem",
+        "1": "Kubki Piaskowe — para kubków w dłoni",
+        "2": "Kubki Piaskowe — widok z góry na błękitne wnętrza",
+        "3": "Kubki Piaskowe — detale piaskowej faktury"
+      }
+    },
+    "czarki": {
+      "name": "Czarki",
+      "description": "Kolekcja małych naczyń bez ucha — czarki, kubki serduszka i kubeczki to go. Wielokolorowe szkliwa, romantyczne kształty i ceramiczne wersje kubków podróżnych. Styl wabi-sabi, gdzie niedoskonałość jest pięknem.",
+      "images": {
+        "0": "Czarki — para czarek z błękitnym wnętrzem",
+        "1": "Czarki — widok z boku na wielokolorowe szkliwo",
+        "2": "Czarki — kubki serduszka w kształcie serca",
+        "3": "Czarki — ceramiczne kubeczki to go"
+      }
+    },
+    "miski-oceaniczne": {
+      "name": "Miski Oceaniczne",
+      "description": "Ręcznie toczone miski inspirowane głębią oceanu. Szkliwione w odcieniach błękitu i turkusu, z organicznymi kształtami przypominającymi morskie skały. Idealne do serwowania sałatek czy ulubionej zupy.",
+      "images": {
+        "0": "Miski Oceaniczne — zestaw misek w odcieniach błękitu",
+        "1": "Miski Oceaniczne — detale szkliwienia i faktura"
+      }
+    },
+    "miski-piaskowe": {
+      "name": "Miski Piaskowe",
+      "description": "Miski w piaskowych odcieniach z abstrakcyjnymi, pędzlowymi wzorami w ciemnym szkliwie. Każdy swirl jest inny — malowany ręcznie jednym ruchem pędzla. Zestaw trzech misek o różnych rozmiarach.",
+      "images": {
+        "0": "Miski Piaskowe — trzy miski z góry z pędzlowymi wzorami",
+        "1": "Miski Piaskowe — widok z boku, nachylone",
+        "2": "Miski Piaskowe — stosik misek z profilu",
+        "3": "Miski Piaskowe — rozłożone na tkaninie"
+      }
+    },
+    "patera-rafa": {
+      "name": "Patera Rafa",
+      "description": "Duża patera o organicznych, falujących krawędziach — inspirowana rafą koralową. Szkliwiona w głębokim błękicie z detalem przypominającym koralowiec. Każda sztuka jest niepowtarzalna, idealna jako centerpiece na stole.",
+      "images": {
+        "0": "Patera Rafa — zbliżenie na koralowcowy detal i błękitne szkliwo",
+        "1": "Patera Rafa — detal krawędzi z koralowcem",
+        "2": "Patera Rafa — dwie patery na drewnianym stole",
+        "3": "Patera Rafa — widok z boku na falującą krawędź"
+      }
+    },
+    "naczynie-na-tapas": {
+      "name": "Naczynie na Tapas",
+      "description": "Zestaw do serwowania tapas w surowym, piaskowym wykończeniu z charakterystycznym granatowym splatterem. Miska z paterką — razem tworzą komplet idealny na wspólne posiłki w hiszpańskim stylu.",
+      "images": {
+        "0": "Naczynie na Tapas — miska i paterka z góry",
+        "1": "Naczynie na Tapas — widok z boku",
+        "2": "Naczynie na Tapas — detal splatteru"
+      }
+    }
+  }
+}
